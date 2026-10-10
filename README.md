@@ -1,2 +1,2 @@
 # first-project
-hi
+Ez a main verzió
