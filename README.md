@@ -1,2 +1,2 @@
 # first-project
-dasdihsadasuindsnsjndisa
+Ez az új ág verziója
